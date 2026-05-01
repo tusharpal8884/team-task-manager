@@ -51,12 +51,6 @@ A full-stack web application where users can create projects, assign tasks, and 
 
 * MongoDB Atlas
 
----
-
-## 🌐 Live Demo
-
-Frontend: https://your-vercel-url
-Backend: https://your-railway-url
 
 ---
 
